@@ -1,2 +1,2 @@
-# topicos-especiais-web
-Repositorio para os projetos da disciplina de Topicos Especiais em Web
+# TOPICOS ESPECIAIS EM WEB
+Repositório para os projetos da disciplina de Tópicos Especiais em Web
